@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">🔭 Currently working on TGu University</h3>
+<h3 align="center">🔭 Currently working on TGU University</h3>
 <h3 align="center">🌱 Learning algorithms, making some projects using Nodejs, PHP . . .</h3>
 
 <p align="center" style="margin-bottom: 20px">
