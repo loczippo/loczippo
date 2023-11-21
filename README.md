@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">🔭 Currently working on TGU University</h3>
+<h3 align="center">🔭 I'm a developer</h3>
 <h3 align="center">🌱 Learning algorithms, making some projects using Node, React writing with Typescript . . .</h3>
 
 <p align="center" style="margin-bottom: 20px">
-<!-- 	<img src="https://github-readme-stats.vercel.app/api?username=loczippo&show_icons=true&theme=nightowl"></img> -->
+<img src="https://github-readme-stats.vercel.app/api?username=loczippo&show_icons=true&theme=nightowl"></img>
 </p>
 <p align="center" style="margin-bottom: 10px">
 	<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" />
